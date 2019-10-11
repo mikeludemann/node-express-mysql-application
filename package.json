@@ -1,0 +1,35 @@
+{
+  "name": "nem-application",
+  "version": "1.0.0",
+  "description": "A node.js with express and mysql application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikeludemann/node-express-mysql-application.git"
+  },
+  "keywords": [
+    "Node",
+    "Express",
+    "MySQL",
+    "Session"
+  ],
+  "author": "Mike Ludemann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikeludemann/node-express-mysql-application/issues"
+  },
+  "homepage": "https://github.com/mikeludemann/node-express-mysql-application#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.3.1",
+    "express": "^4.17.1",
+    "express-session": "^1.17.0",
+    "jquery": "^3.4.1",
+    "mysql": "^2.17.1",
+    "popper.js": "^1.15.0"
+  }
+}
