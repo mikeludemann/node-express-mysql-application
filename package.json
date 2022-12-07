@@ -24,9 +24,9 @@
   },
   "homepage": "https://github.com/mikeludemann/node-express-mysql-application#readme",
   "dependencies": {
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.1",
     "bootstrap": "^4.3.1",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "express-session": "^1.17.0",
     "jquery": "^3.4.1",
     "mysql": "^2.17.1",
